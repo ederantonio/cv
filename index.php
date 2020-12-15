@@ -26,7 +26,7 @@
   <link href="css/light.css" rel="stylesheet" class="theme" type="text/css">
   
   <!-- Humans txt-->
-  <link type="text/plain" rel="author" href="human/humans.txt" charset="utf-8" />
+  <link charset="utf-8" type="text/plain" rel="author" href="human/humans.txt"   />
 </head>
 
 <body id="page-top" >
