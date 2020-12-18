@@ -230,6 +230,7 @@
 				// alert("La respuesta regreso");
 			  },
 			  success: function(data, textStatus, xhr) {
+				  console.log(data)
 				$(".loader").css("visibility","hidden"); 
 				$("#name").val(" ") ; 
 				$("#email").val(" ") ; 

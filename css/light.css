@@ -536,13 +536,19 @@ a:hover {
 } */
 .dropdown-menu a {/* --/ Tamaño de los enlaces /--*/
   border-bottom: 2px solid #5e7a784b;
-  color:#00AEAE;
+  /* color:#00AEAE; */
+  color:#454360;
   font-size:1em;
   font-family: 'Rubik',sans-serif;
   background: #F9F9FF;
   height:50px;
   width: 100%;
   margin: -1px 0px;     
+}
+
+.dropdown-menu a:hover {
+  color:#fcfcfc;
+  background:#00AEAE;
 }
 
 /* .dropdown-menu ul li{

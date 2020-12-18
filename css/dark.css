@@ -538,9 +538,9 @@ a:hover {
   width: 100%;
   margin: -1px 0px;     
 }
-/* .dropdown-menu a:hover {
-    box-shadow: unset;  
-} */
+.dropdown-menu a:hover {
+  background:#00AEAE;
+}
 
 /* ------/ boton Menu responsivo /------*/ 
 .main-header-dropdown-button {
