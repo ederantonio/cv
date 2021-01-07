@@ -169,7 +169,7 @@
               <div class="sobremi-info"  > 
                 <span><i class="fab fa-skype icon"></i>&nbsp; live:d84e7fba9bb4f460 </span><br>
                 <span><i class="fas fa-map-marker-alt icon "></i>&nbsp; torreón coahuila, méxico</span> <br> 
-                <span class="mt-2" ><i class="fas fa-birthday-cake icon"  ></i>&nbsp; 7 octubre 1987</span> 
+                <span class="mt-2" ><i class="fas fa-globe icon"  ></i>&nbsp; https://github.com/ederantonio</span> 
               </div>  
               <span><i class="fas fa-globe icon"></i>&nbsp; https://medium.com/nubeden-desarrollo-web </span> 
             </div> 
@@ -358,7 +358,36 @@
             </a>
           </div>
         </div> 
+
+        <div class="contenedor-proyecto m-auto d-flex justify-content-center">
+          <div class="work-box  d-flex justify-content-center   mt-5">
+          <!-- <a href="img/crudbasico.png" data-lightbox="gallery-mf"> -->
+            <a href="https://www.google.com" target="_blank">
+              <div class="work-img">
+                <img src="img/crudbasico.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8"  >
+                    <h2 class="   mb-4 tituloproyecto">CRUD básico</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory" id="enlace-crud">Desarrollo Web enlace</span> / <span class="w-date">6 Enero 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
       </div>
+
+      
     
   </section>
   <!--==============================================
@@ -423,14 +452,11 @@
   =================================================-->
 
   <!-- <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a> -->
-  <div id="preloader"></div>
-
-  <!-- JavaScript Libraries -->
-  
+  <div id="preloader"></div> 
+  <!-- JavaScript Libraries --> 
   <!-- <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script> -->
   <script src="lib/jquery/jquery.min.js"  type="text/javascript"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"  type="text/javascript"></script>
- 
+  <script src="lib/jquery/jquery-migrate.min.js"  type="text/javascript"></script> 
   <script src="lib/popper/popper.min.js"  type="text/javascript"></script>
   <script src="lib/bootstrap/js/bootstrap.min.js"  type="text/javascript"></script>
   <script src="lib/easing/easing.min.js"  type="text/javascript"></script>
@@ -439,7 +465,7 @@
   <script src="lib/owlcarousel/owl.carousel.min.js"  type="text/javascript"></script>
   <script src="lib/lightbox/js/lightbox.min.js"  type="text/javascript"></script>
   <script src="lib/typed/typed.min.js"  type="text/javascript"></script>
-  <!-- Contact Form JavaScript File -->
+  <!-- Validate jquery formularios -->
   <script src="js/jquery.validate.js"  type="text/javascript"></script>
   <script src="js/additional-methods.js"  type="text/javascript"></script>
   <script></script>
