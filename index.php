@@ -106,7 +106,7 @@
           <section class="redessociales">
             <a href="https://www.linkedin.com/in/eder-antonio/" title="Linkedin" target="_blank"><i class="fab fa-linkedin-in rs"></i></a>  
             <a href="https://twitter.com/ederantonyo" title="Twitter" target="_blank"><i class="fab fa-twitter rs"></i></a> 
-            <a href="https://api.whatsapp.com/send?phone=8713303635&text=hola%20buen%20dia!"><i class="fab fa-whatsapp rs"></i></a> 
+            <a href="https://api.whatsapp.com/send?phone=+528713303635&text=hola%20buen%20dia!"><i class="fab fa-whatsapp rs"></i></a> 
           </section>
           <!-- <a class="btn js-scroll px-4" href="#about" role="button" id="btn-yo">Click aquí</a>  -->
           <div class="d-flex justify-content-center mt-3 align-items-start">
