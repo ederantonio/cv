@@ -142,7 +142,7 @@
           </p> 
           <div class="d-flex justify-content-center  ">
             <button type="button" class="btn btn-info icon  cv  ">
-              <a href="descargar.php?archivo=CV Eder Antonio Esparza Belmonte.pdf" id="descargarcv">Descargar CV</a>
+              <a href="descargar.php?archivo=cv.pdf" id="descargarcv">Descargar CV</a>
               <!-- descargar.php?archivo=CV EDER ANTONIO ESPARZA BELMONTE.pdf -->
  
             </button>
