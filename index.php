@@ -336,7 +336,7 @@
 
         <div class="contenedor-proyecto m-auto d-flex justify-content-center">
           <div class="work-box  d-flex justify-content-center   mt-5">
-            <a href="img/webuno.png" data-lightbox="gallery-mf">
+            <a href="http://webestetica.epizy.com/?i=1" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/webuno.png" alt="" class="img-fluid">
               </div>
