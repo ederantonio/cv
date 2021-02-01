@@ -363,7 +363,7 @@
         <div class="contenedor-proyecto m-auto d-flex justify-content-center">
           <div class="work-box  d-flex justify-content-center   mt-5">
           <!-- <a href="img/crudbasico.png" data-lightbox="gallery-mf"> -->
-            <a href="https://www.google.com" target="_blank">
+            <a href="http://crudbasico.epizy.com/" target="_blank">
               <div class="work-img">
                 <img src="img/crudbasico.png" alt="" class="img-fluid">
               </div>
