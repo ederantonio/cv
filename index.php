@@ -106,7 +106,7 @@
           <section class="redessociales">
             <a href="https://www.linkedin.com/in/eder-antonio/" title="Linkedin" target="_blank"><i class="fab fa-linkedin-in rs"></i></a>  
             <a href="https://twitter.com/ederantonyo" title="Twitter" target="_blank"><i class="fab fa-twitter rs"></i></a> 
-            <a href="https://api.whatsapp.com/send?phone=8713303635&text=hola%20buen%20dia!"><i class="fab fa-whatsapp rs"></i></a> 
+            <a href="https://api.whatsapp.com/send?phone=+528713303635&text=hola%20buen%20dia!"><i class="fab fa-whatsapp rs"></i></a> 
           </section>
           <!-- <a class="btn js-scroll px-4" href="#about" role="button" id="btn-yo">Click aquí</a>  -->
           <div class="d-flex justify-content-center mt-3 align-items-start">
@@ -142,7 +142,7 @@
           </p> 
           <div class="d-flex justify-content-center  ">
             <button type="button" class="btn btn-info icon  cv  ">
-              <a href="descargar.php?archivo=CV Eder Antonio Esparza Belmonte.pdf" id="descargarcv">Descargar CV</a>
+              <a href="descargar.php?archivo=cv.pdf" id="descargarcv">Descargar CV</a>
               <!-- descargar.php?archivo=CV EDER ANTONIO ESPARZA BELMONTE.pdf -->
  
             </button>
@@ -336,7 +336,8 @@
 
         <div class="contenedor-proyecto m-auto d-flex justify-content-center">
           <div class="work-box  d-flex justify-content-center   mt-5">
-            <a href="img/webuno.png" data-lightbox="gallery-mf">
+            <!-- <a href="http://webestetica.epizy.com/?i=1" data-lightbox="gallery-mf"> -->
+            <a href="http://webestetica.epizy.com/?i=1" target="_blank">
               <div class="work-img">
                 <img src="img/webuno.png" alt="" class="img-fluid">
               </div>
@@ -362,7 +363,7 @@
         <div class="contenedor-proyecto m-auto d-flex justify-content-center">
           <div class="work-box  d-flex justify-content-center   mt-5">
           <!-- <a href="img/crudbasico.png" data-lightbox="gallery-mf"> -->
-            <a href="https://www.google.com" target="_blank">
+            <a href="http://crudbasico.epizy.com/" target="_blank">
               <div class="work-img">
                 <img src="img/crudbasico.png" alt="" class="img-fluid">
               </div>
